@@ -1,15 +1,15 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "index": "概述",
+  "another": "其他页面",
+  "advanced": "高级 (一个文件夹)",
   "about": {
-    "title": "About",
+    "title": "关于我们",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "联系我们 ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://twitter.com/realJackMoss",
     "newWindow": true
   }
 }
